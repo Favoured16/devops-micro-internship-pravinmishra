@@ -35,7 +35,7 @@ You will reuse this in later weeks. So do it properly once.
 
 Add your answer here...
 
----
+---I believed that sucess is not about luck or talent, its about consistency and continous growth. Many people around me think suceesful people simply had better opportunities or were naturally gifted.I believe the biggest difference is their willingness to keep learning,stay disciplined and keep showing up even when the result aren't immediate.
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -55,11 +55,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Skills create opportunities.
+
 
 ### Evidence from my life
 
-Add your answer here...
+Investing in high value skills has consistently opened doors that credentials alone could not,I focus on testing ideas, learning from results, and continously improving myself.
+
 
 ---
 
@@ -67,11 +69,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Failure is data, not defeat.
+
 
 ### Evidence from my life
 
-Add your answer here...
+Instead of seeing setbacks as reasons to quit,I've learned to analyze what went wrong,adjust my approach and try again. Every mistake brings improvement.
 
 ---
 
@@ -80,10 +83,12 @@ Add your answer here...
 ### Truth
 
 Add your answer here...
+Consistency beats intensity.
 
 ### Evidence from my life
 
 Add your answer here...
+I've learned that taking small,consistent actions every day produces better long-term results than occasional bursts of effort.Whether am learning new technical skills or working towards personal goals,consistency beats intensity.
 
 ---
 
@@ -134,16 +139,37 @@ Include this line:
 > **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
 ## Your Article
+My Version 2.0
 
-Add your answer here...
+This Was Written By A Technology Journalist About Me
+
+Five years ago, Chibundu Favour made the bold decision to transition from Broadcast Engineering into Cloud Computing and DevOps—a move that has since defined an exceptional career.
+
+Today, Favour is recognized as a skilled Cloud DevOps Engineer known for designing secure, scalable, and automated cloud solutions. Through expertise in cloud technologies, Infrastructure as Code (IaC), CI/CD, and DevSecOps, she has helped organizations improve efficiency, accelerate software delivery, and strengthen system reliability.
+
+Beyond technical excellence, she is a passionate mentor dedicated to empowering aspiring Cloud and DevOps professionals across Africa. By sharing knowledge through mentorship, workshops, and community engagement, She continues to inspire others to pursue successful careers in technology.
+
+Driven by a mindset of continuous learning, innovation, and excellence, Favour's vision extends beyond personal success—to leading global cloud transformation initiatives, building a world-class technology consultancy, and developing the next generation of technology leaders.
+
+This is not the peak of the journey—it is only the beginning of an enduring legacy of leadership, innovation, and impact.
+
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra https://lnkd.in/ew24BHvu. 
+You can start your DevOps journey by joining https://lnkd.in/edZGi3AV .
+Special appreciation to lead co-mentor Anjana Muthunayake  and co-mentors Nkechi Anna Ahanonye Tanisha Borana.
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6
+
+
+Linkedin post link
+https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 ---
+
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -165,7 +191,8 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+Yes
+
 
 If Yes:
 
@@ -173,7 +200,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt bad being dishonest.
 
 ---
 
@@ -199,16 +226,35 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits By James Clear.
+![alt text](<Atomic Habits.webp>)
+
+2. Deep Work By Cal Newport.
+![alt text](<Deep work.jpg>)
+
+3. The Psychology Of Money By Morgan Housel.
+![alt text](<Power of money.webp>)
+
+4. Can't Hurt Me By David Goggins.
+![alt text](<Cant hurt me-1.webp>)
+
+5. The Lean Startup By Eric Ries.
+![alt text](<The lean start up.webp>)
+
+6. How To Win Freinds And Influence People By Dale Carnegie.
+![alt text](<How to win and influence.webp>)
+
+7. Thinking Fast And Slow By Daniel Kahneman.
+![alt text](<Thinking fast.webp>)
+
+8. Spark By John j. Ratey.
+![alt text](Spark.webp)
+
+9. So Good They Can't Ignore You By Cal Newport.
+![alt text](<So Good.webp>)
+
+10. The Power of Discipline by Daniel Walter.
+![alt text](<The power of discipline.webp>)
 
 ---
 
@@ -237,16 +283,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* I will measure and keep track of how many focused hours of Learning per week.
+* I will measure what i built or projects completed per week.
+* I will measure how many hours spent on exercise sessions to keep fit.
+* I will measure knowledged gained per week by doing what i couldn't do last week .
+* I will measure my Average sleeping hours per week to maintain a healthy lifestlye .
+* I will keep track on how i spend money to avoid unnessary spending.
+* I will measure my Job applications and Interviews.
+* I will measure my professional network growth.
+* I will measure my daily and weekly goals achieved.
+* I will measure books i read completely.
 
 ---
 
@@ -272,7 +318,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes.
 
 ---
 
@@ -290,7 +336,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday - Friday: 2hrs for each day for both Reading and Practicals.
+Saturday : DMI Session which is mandatory
+Sunday : Weekly Review 2 hours every sunday
 
 ---
 
@@ -298,11 +346,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I will start doing my DMI work From Sunday till Friday at least devoting 2 hours for each day.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 sesssions per week
 
 ---
 
@@ -316,7 +364,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Making sure my phone is on Do not disturb during the DMI saturday class.
+Avoiding procastination.
+Avoiding late night screen time.
+
+
 
 ---
 
@@ -324,27 +376,31 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+This week, I realized that my mindset has a direct impact on my results. Success begins with the beliefs I choose to hold and the actions I consistently take. I discovered that when I focus on growth, embrace challenges as learning opportunities, and remain disciplined, I become more confident and productive. This insight has reinforced my commitment to developing habits and a mindset that supports long-term success. Small ,consistent improvements gave me more confidence than trying to learn everything at once.I also need to protect my focus by reducing distractions during my study sessions.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that  I can be inconsistent with my study routine when my schedule gets busy.
+I also noticed that I sometimes watch tutorials without spending enough time practicing what I learned.
+I compare my progress with others, which sometimes affects my motivation.
+I try to learn too many topics at once, which reduces my focus.
+I spend too much time trying to get things perfect instead of making progress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
-
+From this week, I will study every day for 2 hours,During this time, my phone will be on Do Not Disturb, I will focus on one topic only, spend at least 1 hour on hands-on practice, and end each session with a 30-minutes review of what I learned, then plan for tomorrow.
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`_____ https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs_____________________`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: **ADD LINK HERE** 
+ https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
