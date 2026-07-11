@@ -23,7 +23,7 @@ terms.html
 ![project folder](./images/ss67.png)
 
 If a `CLAUDE.md` file already exists, delete it before starting this assignment.
-
+![alt text](image.png)
 ---
 
 ## 2. Step-by-Step Solution

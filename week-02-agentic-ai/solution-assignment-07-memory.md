@@ -21,7 +21,7 @@ Identify where Claude Code stores memory for this project.
 #### Screenshot 1 — Memory file path shown by Claude
 
 Add your screenshot here.
-
+![alt text](<Screenshot showing Memory file path shown by Claude.png>)
 ---
 
 # Task 2 — Give Claude Information to Remember
@@ -35,13 +35,13 @@ Store project-specific rules and configurations into Claude’s memory and verif
 #### Screenshot 2 — Claude confirming the memory was saved
 
 Add your screenshot here.
-
+![alt text](<Screenshot with Claude confirming the memory was saved.png>)
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
 Add your screenshot here.
-
+![alt text](<Screenshot with The `MEMORY.md` file open in VS Code showing the saved content.png>)
 ---
 
 # Task 3 — Close the Session Completely

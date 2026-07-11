@@ -131,7 +131,9 @@ How many lines of CSS does this project have?
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
+![alt text](<Screenshot with what files are in the project2.png>)
 - Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
+![alt text](<Screenshot with how many lines.png>)
 
 ---
 
@@ -148,7 +150,7 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 5 required screenshots
 - Your GitHub forked repository URL
-
+https://github.com/Favoured16/Ultimate-Agentic-DevOps-with-Claude-Code
 ---
 
 ## 10. Solution Walkthrough

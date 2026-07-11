@@ -47,14 +47,14 @@ You can publish your blog on:
 #### Screenshot 1 — Blog published and visible
 
 Add your screenshot here.
-
+![alt text](<Screenshot BLOG published.png>)
 ---
 
 ### Submission Field
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91`
 
 ---
 
@@ -93,7 +93,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 #### Screenshot 2 — LinkedIn post published
 
 Add your screenshot here.
-
+![alt text](<screenshot linkedin post.png>)
 ---
 
 ### Submission Field
@@ -102,13 +102,31 @@ LinkedIn Post Content (copy-paste here):
 
 ```
 Paste your LinkedIn post content here
-```
+"My AI agent just remembered a project decision from a previous session—without me repeating it. This is what professional agentic DevOps looks like."
+
+One of the biggest shifts in software engineering is moving from using AI as a chatbot to engineering AI agents that can understand context, retain knowledge, and execute meaningful tasks.
+As part of my Agentic AI learning journey, I had the opportunity to build and configure the foundational components that make this possible.
+Key areas I explored include:
+🔹 Creating CLAUDE.md to provide persistent project context, coding standards, and development guidelines that enable consistent collaboration across sessions.
+🔹 Developing Skills to encapsulate reusable workflows and domain-specific expertise, allowing AI agents to perform recurring tasks with greater consistency and accuracy.
+🔹 Building Subagents to delegate specialized responsibilities, creating modular, scalable, and maintainable AI-driven workflows.
+🔹 Setting up MCP (Model Context Protocol) Servers to securely connect AI agents with external tools, repositories, and services, enabling them to operate with real project context rather than isolated prompts.
+🔹 Configuring Hooks to automate actions throughout the development lifecycle, improving workflow efficiency while reducing repetitive manual tasks.
+What stood out most to me is that effective AI engineering extends beyond prompt writing. It requires designing systems that combine memory, context, tool integration, and automation to create AI agents capable of acting as reliable engineering collaborators.
+As someone transitioning into Cloud and DevOps,I can already see how these capabilities can improve developer productivity, streamline operations, and support more intelligent automation across the software delivery lifecycle.
+
+I'm excited to continue building at the intersection of Cloud, DevOps, and Agentic AI, where intelligent automation is becoming an integral part of modern engineering.
+#AgenticAI #DevOps #CloudComputing #AIEngineering #ModelContextProtocol #MCP #PlatformEngineering #Automation #SoftwareEngineering #ContinuousLearning
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/dh89Fjti) .
+Special appreciation to lead co-mentor Anjana Muthunayake and co-mentors Nkechi Anna Ahanonye, Tanisha Borana, Anuradha Iyer
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+``https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-ugcPost-7481446059924152320-p0Ns/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 ---
 
