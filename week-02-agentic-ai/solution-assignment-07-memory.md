@@ -55,7 +55,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
 Add your screenshot here.
-
+![alt text](<Screenshot with VS Code reopened with a fresh Claude Code session showing no previous conversation.png>)
 ---
 
 # Task 4 — Prove Memory Recall Across Sessions
@@ -69,13 +69,13 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 #### Screenshot 5 — Claude recalling hero section colors
 
 Add your screenshot here.
-
+![alt text](<Screenshot with Claude recalling hero section colors.png>)
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
 Add your screenshot here.
-
+![alt text](<Screenshot with Claude refusing JavaScript request based on memory rule-1.png>)
 ---
 
 # Submission Instructions
