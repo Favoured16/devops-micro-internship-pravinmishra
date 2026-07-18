@@ -15,7 +15,20 @@ You're new to DevOps and will frequently encounter technical questions. ChatGPT 
 Write a clear ChatGPT prompt to help you understand:
 
 > "What is a protocol in networking? Explain with a simple real-life example."
+A networking protocol is a set of rules and standards that devices follow to communicate with each other over a network. Just as people need a common language and agreed-upon rules to have a meaningful conversation, computers also need rules to exchange information correctly.
 
+Real life example:
+Imagine you want to send a letter to your friend.
+
+For the letter to reach the correct person, you must follow certain rules:
+
+Write the recipient's correct address.
+Place the letter in an envelope.
+Attach the correct postage stamp.
+Drop it at the post office.
+The postal service follows its own procedures to deliver it.
+
+If you ignored these rules—for example, by writing no address or using the wrong format—the letter would never reach your friend.
 Take a screenshot of your interaction showing:
 
 * Your detailed prompt (with clear expectations)
@@ -25,7 +38,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot]![alt text](image-2.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +47,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+AI learned that networking protocols are the rules that enable devices to communicate reliably over a network. Through simple examples, I gained a better understanding of why protocols are essential for data exchange and how they form the foundation of internet communication, networking, and DevOps.dd your answer here...
 
 ---
 
@@ -60,6 +73,12 @@ Write a short explanation (**100–150 words**) that includes:
 ## Answer
 
 Add your answer here...
+Here's a version that is **between 100 and 150 words** (approximately **118 words**):
+
+> Here's a version that is **between 100 and 150 words** (approximately **118 words**):
+
+> When a user anywhere in the world visits *EpicReads*, their browser sends a request to the website hosted in Finland. This request is divided into small units called **packets** through a process known as **packet switching**. Each packet can travel through different network paths before being reassembled at the destination. Every device connected to the internet has a unique **IP address**, which helps route the packets to the correct server hosting the website. The **TCP/IP** protocol suite manages the communication, with TCP ensuring that all packets arrive correctly and in the proper order, while IP handles addressing and routing. Finally, **HTTPS** securely transfers data between the user's browser and the EpicReads server, protecting sensitive information and allowing users worldwide to access the online bookstore safely and reliably.
+
 
 ---
 
@@ -91,7 +110,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](![alt text](image-1.png) )
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +121,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Add your answer here...HTML/CSS/JavaScript
+* Add your answer here...React.js
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Add your answer here...Node.js
+* Add your answer here...Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* Add your answer here...MySQL
+* Add your answer here...PostgreSQL
 
 ---
 
@@ -143,6 +162,9 @@ In **50–100 words**, explain in your own words:
 ## Answer
 
 Add your answer here...
+DNS (Domain Name System) is the internet's naming system that translates human-readable domain names (such as epicreads.com) into IP addresses (such as 52.172.142.222) that computers use to locate websites and other online services. It acts like the internet's phonebook, allowing users to access websites using easy-to-remember names instead of numerical IP addresses. Without DNS, users would have to memorize and enter IP addresses every time they wanted to visit a website.
+
+An A (Address) record should be used to connect the domain epicreads.com to the IP address 52.172.142.222 because an A record maps a domain name directly to an IPv4 address. This allows users to access the website by typing epicreads.com into their browser instead of entering the numerical IP address.
 
 ---
 
@@ -178,7 +200,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot]![alt text](<vscode dir - Copy.png>)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -217,8 +239,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
+```https://www.linkedin.com/posts/favour-chibundu-323793353_learning-devops-cloudcomputing-activity-7396199295395237889-NfYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 ```
 
 ---
@@ -227,7 +248,30 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I just recieved a free access from an expert trainer Pravin Mishra to join Devops for beginners training.
+
+Below is what I learned so far;
+
+TASK 1: How to use ChatGPT as my learning assistant and how to prompt ChatGPT, how to also get a detailed and beginner friendly explanation.
+
+TASK 2: Internet and Networking- I learnt how devices connect and communicate,what Protocols in networking such as IP,TCP, HTTP etc is and also Packet Switching which ensures efficient and data transfer .
+
+ TASK 3: Application Architecture & Stack -Understanding the difference between Two- tier Apps- Frontend which is directly connected to the database 
+Three tier Apps-Frontend,Backend and Database separated into layers for scalability, performance and security and some common tools for each layers such as React js, mySQL/monogoDB(Database).
+
+TASK 4: Domain Name System (DNS) - DNS translates easy to remember domain name into IP addresses that the computer use to locate each other,it is also known as the internet’s phone book.
+
+TASK 5: Vscode Setup: Using some Basic Linux command such as pwd, dir and ls , I successfully installed some extensions and set up visual studio code for development 
+
+I will be posting my learning experience as I deepen my knowledge into cloud computing and Devops.
+
+P.S This post is part of the free Devops micro internship cohort run by Pravin Mishra. You can start your Devops journey for free from his YouTube playlist https://lnkd.in/euf7MuQD
+
+hashtag#learning
+hashtag#devops
+hashtag#cloudcomputing
+
+
 
 ---
 
