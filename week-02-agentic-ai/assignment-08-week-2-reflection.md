@@ -54,11 +54,8 @@ Add your screenshot here.
 
 Blog Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
 `https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91`
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
+
 
 ---
 
@@ -96,15 +93,11 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
 ![alt text](<screenshot linkedin post.png>)
 ---
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
-
-```
 Paste your LinkedIn post content here
 "My AI agent just remembered a project decision from a previous session—without me repeating it. This is what professional agentic DevOps looks like."
 
@@ -130,11 +123,7 @@ Special appreciation to lead co-mentor Anjana Muthunayake and co-mentors Nkechi 
 
 ### LinkedIn Post Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
-``https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-ugcPost-7481446059924152320-p0Ns/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
+`https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-ugcPost-7481446059924152320-p0Ns/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
 
 ---
 
@@ -150,15 +139,15 @@ Special appreciation to lead co-mentor Anjana Muthunayake and co-mentors Nkechi 
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+* [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 

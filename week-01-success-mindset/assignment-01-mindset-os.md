@@ -33,9 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
----I believed that sucess is not about luck or talent, its about consistency and continous growth. Many people around me think suceesful people simply had better opportunities or were naturally gifted.I believe the biggest difference is their willingness to keep learning,stay disciplined and keep showing up even when the result aren't immediate.
+I believed that sucess is not about luck or talent, its about consistency and continous growth. Many people around me think suceesful people simply had better opportunities or were naturally gifted.I believe the biggest difference is their willingness to keep learning,stay disciplined and keep showing up even when the result aren't immediate.
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -82,12 +80,10 @@ Instead of seeing setbacks as reasons to quit,I've learned to analyze what went 
 
 ### Truth
 
-Add your answer here...
 Consistency beats intensity.
 
 ### Evidence from my life
 
-Add your answer here...
 I've learned that taking small,consistent actions every day produces better long-term results than occasional bursts of effort.Whether am learning new technical skills or working towards personal goals,consistency beats intensity.
 
 ---
@@ -141,7 +137,7 @@ Include this line:
 ## Your Article
 My Version 2.0
 
-This Was Written By A Technology Journalist About Me
+This Was Written By A Technology Journalist About Favour
 
 Five years ago, Chibundu Favour made the bold decision to transition from Broadcast Engineering into Cloud Computing and DevOps—a move that has since defined an exceptional career.
 
@@ -162,15 +158,11 @@ Special appreciation to lead co-mentor Anjana Muthunayake  and co-mentors Nkechi
 
 Paste your link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
 https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6
 
 
 Linkedin post link
 https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-01-success-mindset/assignment-01-mindset-os.md
 
 ---
 
@@ -372,8 +364,6 @@ Making sure my phone is on Do not disturb during the DMI saturday class.
 Avoiding procastination.
 Avoiding late night screen time.
 
-
-
 ---
 
 # Reflection – Week 1
@@ -395,20 +385,15 @@ I spend too much time trying to get things perfect instead of making progress.
 From this week, I will study every day for 2 hours,During this time, my phone will be on Do Not Disturb, I will focus on one topic only, spend at least 1 hour on hands-on practice, and end each session with a 30-minutes review of what I learned, then plan for tomorrow.
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
-
-<<<<<<< HEAD:week-01-success-mindset/README.md
-`_____ https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs_____________________`
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-01-success-mindset/assignment-01-mindset-os.md
+`https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE** 
- https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
+- LinkedIn Post URL: ** https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs** 
+
+ 
 - Blog / Medium : **ADD LINK HERE**  
 
 ---

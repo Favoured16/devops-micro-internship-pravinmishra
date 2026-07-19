@@ -20,7 +20,6 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
 ![alt text](<Screenshot of vscode showing claude agent with 3 files.png>)
 ---
 
@@ -60,7 +59,6 @@ Add your screenshot here.
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
 ![alt text](<Screenshot showing cost optimizer with tools.png>)
 ---
 
@@ -74,13 +72,11 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
 ![alt text](<Screenshot showing claude lauching security agents-1.png>)
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
 ![alt text](<Screenshot showing security report output .png>)
 ---
 
@@ -94,7 +90,6 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
 ![alt text](<screenshots showingThe full cost optimization report.png>)
 ---
 
@@ -108,28 +103,22 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-04-subagents.md
-`https://github.com/Favoured16/Ultimate-Agentic-DevOps-with-Claude-Code.git`
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-04-subagents.md
+`https://github.com/Favoured16/devops-micro-internship-pravinmishra.git`
 
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/agents/` folder contains all 3 agent files
-- [ ] Screenshot 2 shows correct `security-auditor.md` configuration
-- [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
-- [ ] Security auditor executed successfully
-- [ ] Cost optimizer executed successfully
-- [ ] Security report is visible with findings
-- [ ] Cost report is visible with recommendations
-- [ ] All required screenshots added
-- [ ] GitHub repo updated with agents
+- [✅] `.claude/agents/` folder contains all 3 agent files
+- [✅] Screenshot 2 shows correct `security-auditor.md` configuration
+- [✅] Screenshot 3 shows correct `cost-optimizer.md` configuration
+- [✅] All 3 written answers completed 
+- [✅] Security auditor executed successfully
+- [✅] Cost optimizer executed successfully
+- [✅] Security report is visible with findings
+- [✅] Cost report is visible with recommendations
+- [✅] All required screenshots added
+- [✅] GitHub repo updated with agents
 
 ---
 

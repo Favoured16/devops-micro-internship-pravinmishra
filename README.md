@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Favour Ngozi Chibundu |
-| **LinkedIn** | | www.linkedin.com/in/favour-chibundu-323793353 | |
+| **LinkedIn** | www.linkedin.com/in/favour-chibundu-323793353 |
 | **Location** | Enugu, Nigeria |
 | **Background** | Cloud, DevOps & AI Intern |
 | **Goal** | To Work As a Cloud /DevOps Engineer |
@@ -130,11 +130,11 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-<<<<<<< HEAD
-| 00 | Internet & Networking Basics |✅ Completed ⬜ Not Started |⏳ Pending  — |— |
-| 01 | Success Mindset | ✅ Completed | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code |✅ Completed ⬜ Not Started |⏳ Pending  — | — |
-| 03 | Linux for DevOps |✅ Completed ⬜ Not Started | ⏳ Pending | — | — |
+ 
+| 00 | Internet & Networking Basics |✅ Completed |✅ Solved|https://www.linkedin.com/posts/favour-chibundu-323793353_learning-devops-cloudcomputing-activity-7396199295395237889-NfYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs| https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6 |
+| 02 | Agentic AI with Claude Code |✅ Completed |✅ Solved| https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs |https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?source=user_profile_page---------0-------------b1bc26ae068e---------------------- |
+| 03 | Linux for DevOps |✅ Completed |✅ Solved | https://www.linkedin.com/posts/favour-chibundu-323793353_aws-ec2-reactjs-ugcPost-7483854753643417601-U4sm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs| — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
@@ -149,7 +149,7 @@ This is not a course. It is an internship-style program — real deployments, re
 =======
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | ttps://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

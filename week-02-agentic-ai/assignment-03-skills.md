@@ -20,7 +20,6 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-Add your screenshot here.
 ![alt text](<Screenshot showing claude skill with four folders.png>)
 ---
 
@@ -34,13 +33,11 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
 ![alt text](<Screenshot showing terraform of skill md and template md.png>)
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
 ![alt text](<Screenshot showing tf plan, frontmaster-allowed tools.png>)
 ---
 
@@ -53,8 +50,6 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 ### Evidence
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
-
-Add your screenshot here.
 
 ![alt text](<Screenshot showing Terraform with all generatd files.png>)
 
@@ -74,7 +69,6 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
 ![alt text](<Screenshot showing claude's T plan error.png>)
 ---
 
@@ -87,23 +81,18 @@ Add your screenshot here.
 ---
 
 ## GitHub Repository URL
-
-Paste your forked repository URL here:
-
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-03-skills.md
 `https://github.com/Favoured16/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 =======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-03-skills.md
+
 
 ## LinkedIn post URL
 https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-03-skills.md
+
 `_https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs_________________________`
 =======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-03-skills.md
+`https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
+
 ---
 
 # Completion Checklist

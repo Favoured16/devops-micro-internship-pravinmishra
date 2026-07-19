@@ -71,12 +71,6 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
-
-Add your answer here...
-Here's a version that is **between 100 and 150 words** (approximately **118 words**):
-
-> Here's a version that is **between 100 and 150 words** (approximately **118 words**):
-
 > When a user anywhere in the world visits *EpicReads*, their browser sends a request to the website hosted in Finland. This request is divided into small units called **packets** through a process known as **packet switching**. Each packet can travel through different network paths before being reassembled at the destination. Every device connected to the internet has a unique **IP address**, which helps route the packets to the correct server hosting the website. The **TCP/IP** protocol suite manages the communication, with TCP ensuring that all packets arrive correctly and in the proper order, while IP handles addressing and routing. Finally, **HTTPS** securely transfers data between the user's browser and the EpicReads server, protecting sensitive information and allowing users worldwide to access the online bookstore safely and reliably.
 
 
@@ -160,8 +154,6 @@ In **50–100 words**, explain in your own words:
 2. Which DNS record type should be used to connect the domain to the given IP, and why?
 
 ## Answer
-
-Add your answer here...
 DNS (Domain Name System) is the internet's naming system that translates human-readable domain names (such as epicreads.com) into IP addresses (such as 52.172.142.222) that computers use to locate websites and other online services. It acts like the internet's phonebook, allowing users to access websites using easy-to-remember names instead of numerical IP addresses. Without DNS, users would have to memorize and enter IP addresses every time they wanted to visit a website.
 
 An A (Address) record should be used to connect the domain epicreads.com to the IP address 52.172.142.222 because an A record maps a domain name directly to an IPv4 address. This allows users to access the website by typing epicreads.com into their browser instead of entering the numerical IP address.
@@ -236,18 +228,12 @@ Add the following credit note at the end of your post:
 ---
 
 ## LinkedIn Post URL
+https://www.linkedin.com/posts/favour-chibundu-323793353_learning-devops-cloudcomputing-activity-7396199295395237889-NfYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
-Paste your LinkedIn post URL here:
-
-```https://www.linkedin.com/posts/favour-chibundu-323793353_learning-devops-cloudcomputing-activity-7396199295395237889-NfYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-```
 
 ---
 
 ## LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
-
 I just recieved a free access from an expert trainer Pravin Mishra to join Devops for beginners training.
 
 Below is what I learned so far;
@@ -278,20 +264,18 @@ hashtag#cloudcomputing
 # Reflection – Week 0
 
 ### What did you find easy?
-
-Add your answer here...
+I found the introductory concepts easy to understand because they were explained in a practical and beginner-friendly way. Learning how to use ChatGPT as a learning assistant made it easier to break down complex topics into simple explanations. I also found the networking fundamentals, such as protocols, packet switching, and DNS, straightforward because they were supported with real-world examples. Setting up Visual Studio Code and practicing basic Linux commands gave me confidence in navigating the development environment. Overall, the hands-on approach made it easier to grasp the foundational concepts of Cloud Computing and DevOps, and I now have a solid base to build on in the coming weeks.
 
 ---
 
 ### What was difficult?
-
-Add your answer here...
+One of the most challenging parts was understanding the different networking concepts, especially how protocols such as TCP/IP, HTTP, and packet switching work together to enable communication over the internet. At first, the various layers of application architecture and the roles of the frontend, backend, and database were also a bit confusing. However, by using ChatGPT to get beginner-friendly explanations and practicing with real-world examples, these concepts became much clearer. The experience reinforced the importance of asking questions, practicing consistently, and building a strong foundation before moving on to more advanced DevOps topics.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I plan to strengthen my understanding of Linux and networking by practicing more Bash commands and exploring additional DevOps concepts. I also want to improve my hands-on skills by spending more time working on practical labs instead of only reading the theory. Additionally, I will continue using AI as a learning assistant to clarify difficult topics, reinforce my understanding, and build greater confidence as I progress in my Cloud and DevOps journey.
 
 ---
 
