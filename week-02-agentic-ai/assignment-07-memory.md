@@ -82,8 +82,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 ---
 
 ## Linkedin Post Link
-
-Paste your Linkedin post link here:
+https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-activity-7481446062914850817-S1u1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 
 ---

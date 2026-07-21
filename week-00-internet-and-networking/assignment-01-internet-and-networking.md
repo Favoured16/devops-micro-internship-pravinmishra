@@ -115,18 +115,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...HTML/CSS/JavaScript
-* Add your answer here...React.js
+* HTML/CSS/JavaScript
+* React.js
 
 ### Backend
 
-* Add your answer here...Node.js
-* Add your answer here...Express.js
+* Node.js
+* Express.js
 
 ### Database
 
-* Add your answer here...MySQL
-* Add your answer here...PostgreSQL
+* MySQL
+* PostgreSQL
 
 ---
 

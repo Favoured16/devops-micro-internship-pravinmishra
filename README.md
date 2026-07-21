@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs| https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6 |
 | 02 | Agentic AI with Claude Code |✅ Completed |✅ Solved| https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs |https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?source=user_profile_page---------0-------------b1bc26ae068e---------------------- |
 | 03 | Linux for DevOps |✅ Completed |✅ Solved | https://www.linkedin.com/posts/favour-chibundu-323793353_aws-ec2-reactjs-ugcPost-7483854753643417601-U4sm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs| — |
-| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Bash Scripting | 🔄 In Progress|  | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
@@ -146,22 +146,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 12 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
-=======
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | ttps://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
->>>>>>> upstream/main
+
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
