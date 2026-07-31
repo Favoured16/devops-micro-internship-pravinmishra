@@ -55,7 +55,7 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+
 ![alt text](<Screenshot showing Terraform folder with generated files inside.png>)
 ---
 
@@ -101,12 +101,12 @@ https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agent
 - [✅] All skill files placed correctly
 - [✅] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
 - [✅] `/scaffold-terraform` executed successfully
-- [ ] Terraform files generated inside `terraform/` folder
-- [ ] `terraform init` executed successfully
-- [ ] `/tf-plan` executed and output analyzed by Claude
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
-- [ ] LinkedIn post URL included
+- [✅] Terraform files generated inside `terraform/` folder
+- [✅] `terraform init` executed successfully
+- [✅] `/tf-plan` executed and output analyzed by Claude
+- [✅] All required screenshots added
+- [✅] GitHub repository URL included
+- [✅] LinkedIn post URL included
 
 ---
 

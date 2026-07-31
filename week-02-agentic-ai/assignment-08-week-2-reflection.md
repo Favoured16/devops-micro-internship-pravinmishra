@@ -98,7 +98,6 @@ Your post must include:
 
 ### Submission Field
 
-Paste your LinkedIn post content here
 "My AI agent just remembered a project decision from a previous session—without me repeating it. This is what professional agentic DevOps looks like."
 
 One of the biggest shifts in software engineering is moving from using AI as a chatbot to engineering AI agents that can understand context, retain knowledge, and execute meaningful tasks.

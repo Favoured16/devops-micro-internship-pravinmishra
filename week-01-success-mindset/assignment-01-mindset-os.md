@@ -156,8 +156,6 @@ Special appreciation to lead co-mentor Anjana Muthunayake  and co-mentors Nkechi
 
 ### Public Link
 
-Paste your link here:
-
 https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6
 
 
@@ -312,7 +310,7 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer
 
 Yes.
 
@@ -391,10 +389,10 @@ From this week, I will study every day for 2 hours,During this time, my phone wi
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: ** https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs** 
+  https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91 
 
 ---
 
