@@ -14,7 +14,7 @@ You're new to DevOps and will frequently encounter technical questions. ChatGPT 
 
 Write a clear ChatGPT prompt to help you understand:
 
-> "What is a protocol in networking? Explain with a simple real-life example."
+ "What is a protocol in networking? Explain with a simple real-life example."
 A networking protocol is a set of rules and standards that devices follow to communicate with each other over a network. Just as people need a common language and agreed-upon rules to have a meaningful conversation, computers also need rules to exchange information correctly.
 
 Real life example:
@@ -38,10 +38,10 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot]![alt text](image-2.png)
+[alt text](<Chatgpt prompt-1.png>)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+
 
 ---
 
@@ -71,7 +71,7 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
-> When a user anywhere in the world visits *EpicReads*, their browser sends a request to the website hosted in Finland. This request is divided into small units called **packets** through a process known as **packet switching**. Each packet can travel through different network paths before being reassembled at the destination. Every device connected to the internet has a unique **IP address**, which helps route the packets to the correct server hosting the website. The **TCP/IP** protocol suite manages the communication, with TCP ensuring that all packets arrive correctly and in the proper order, while IP handles addressing and routing. Finally, **HTTPS** securely transfers data between the user's browser and the EpicReads server, protecting sensitive information and allowing users worldwide to access the online bookstore safely and reliably.
+When a user anywhere in the world visits *EpicReads*, their browser sends a request to the website hosted in Finland. This request is divided into small units called **packets** through a process known as **packet switching**. Each packet can travel through different network paths before being reassembled at the destination. Every device connected to the internet has a unique **IP address**, which helps route the packets to the correct server hosting the website. The **TCP/IP** protocol suite manages the communication, with TCP ensuring that all packets arrive correctly and in the proper order, while IP handles addressing and routing. Finally, **HTTPS** securely transfers data between the user's browser and the EpicReads server, protecting sensitive information and allowing users worldwide to access the online bookstore safely and reliably.
 
 
 ---
@@ -104,10 +104,10 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](![alt text](image-1.png) )
+[alt text](<Application Architecture & Stack.png>)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
+
 
 ---
 
@@ -192,10 +192,10 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot]![alt text](<vscode dir - Copy.png>)
+[alt text](<vscode dir.png>)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
+
 
 ---
 
@@ -223,7 +223,7 @@ Clearly structure your post into the following sections:
 
 Add the following credit note at the end of your post:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
+ **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 ---
 

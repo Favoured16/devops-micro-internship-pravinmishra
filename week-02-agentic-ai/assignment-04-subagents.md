@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-![alt text](<Screenshot of vscode showing claude agent with 3 files.png>)
+[alt text](<Screenshot of vscode showing claude agent with 3 files.png>)
 ---
 
 # Task 2 — Compare the Agent Configurations
@@ -50,14 +50,14 @@ The tf-writer uses inherit so it automatically uses the same AI model as the mai
 ### Evidence
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
-![alt text](<Screenshot showing security auditor with tools.png>)
+[alt text](<Screenshot showing security auditor with tools.png>)
 
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-![alt text](<Screenshot showing cost optimizer with tools.png>)
+[alt text](<Screenshot showing cost optimizer with tools.png>)
 ---
 
 # Task 3 — Run the Security Auditor
@@ -70,12 +70,12 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-![alt text](<Screenshot showing claude lauching security agents-1.png>)
+[alt text](<Screenshot showing claude lauching security agents-1.png>)
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![alt text](<Screenshot showing security report output .png>)
+[alt text](<Screenshot showing security report output .png>)
 ---
 
 # Task 4 — Run the Cost Optimizer
@@ -88,7 +88,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-![alt text](<screenshots showingThe full cost optimization report.png>)
+[alt text](<screenshots showingThe full cost optimization report.png>)
 ---
 
 # Submission Instructions
@@ -101,7 +101,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ## GitHub Repository URL
 
-`https://github.com/Favoured16/devops-micro-internship-pravinmishra.git`
+https://github.com/Favoured16/devops-micro-internship-pravinmishra.git
 
 ---
 

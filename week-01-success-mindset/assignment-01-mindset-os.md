@@ -383,15 +383,13 @@ I spend too much time trying to get things perfect instead of making progress.
 From this week, I will study every day for 2 hours,During this time, my phone will be on Do Not Disturb, I will focus on one topic only, spend at least 1 hour on hands-on practice, and end each session with a 30-minutes review of what I learned, then plan for tomorrow.
 ### LinkedIn Post
 
-`https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
+https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 ---
 
 ## 10. Proof of Work
 
-  https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-
- 
+  
 - Blog / Medium : https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91 
 
 ---

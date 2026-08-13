@@ -46,15 +46,14 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
-![alt text](<Screenshot BLOG published.png>)
+[alt text](<Screenshot BLOG published.png>)
 ---
 
 ### Submission Field
 
 Blog Link:
 
-`https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91`
+https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91
 
 
 ---
@@ -93,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-![alt text](<screenshot linkedin post.png>)
+[alt text](<screenshot linkedin post.png>)
 ---
 
 ### Submission Field
@@ -122,7 +121,7 @@ Special appreciation to lead co-mentor Anjana Muthunayake and co-mentors Nkechi 
 
 ### LinkedIn Post Link:
 
-`https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-ugcPost-7481446059924152320-p0Ns/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
+https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-ugcPost-7481446059924152320-p0Ns/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 ---
 

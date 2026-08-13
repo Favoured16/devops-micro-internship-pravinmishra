@@ -20,13 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-![alt text](<Output of pwd showing you're inside CodeTrack-1.png>)
+[alt text](<Output of pwd showing you're inside CodeTrack-1.png>)
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-![alt text](<Output of git status showing no not a git repository error-1.png>)
+[alt text](<Output of git status showing no not a git repository error-1.png>)
 
 ---
 
@@ -40,7 +40,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-![alt text](<Output of ls showing index html and style css-1.png>)
+[alt text](<Output of ls showing index html and style css-1.png>)
 
 ---
 
@@ -54,8 +54,8 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-![alt text](<Your editor showing the contents of index html.png>)
-![alt text](<your editor showing the contents of style.css.png>)
+[alt text](<Your editor showing the contents of index html.png>)
+[alt text](<your editor showing the contents of style.css.png>)
 ---
 
 # Task 4 — Track and Stage Files Correctly
@@ -68,13 +68,13 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-![alt text](<Output of git status showing both files as untracked.png>)
+[alt text](<Output of git status showing both files as untracked.png>)
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-![alt text](<Output of git status showing both files staged under Changes to be committed.png>)
+[alt text](<Output of git status showing both files staged under Changes to be committed.png>)
 
 ---
 
@@ -88,7 +88,7 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-A![alt text](<Output of git commit.png>)
+[alt text](<Output of git commit.png>)
 
 ---
 
@@ -108,25 +108,25 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+[alt text](<Browser showing the updated page with  Student Name and Group Name visible.png>)
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+[alt text](<Output of git status showing index html as modified.png>)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+[alt text](<Output of git commit showing header.png>)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+[alt text](<Output of git log oneline showing two commits-1.png>)
 
 ---
 
@@ -140,19 +140,19 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+[alt text](<Output of systemctl status nginx no pager showing Nginx active (running).png>)
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+![alt text](<Output of curl I http localhost showing HTTP 11 200 OK.png>)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+[alt text](<Browser showing the CodeTrack site loaded at EC2 PUBLIC IP with  Full Name and Group Name .png>)
 
 ---
 
@@ -162,16 +162,14 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-`Add your URL here`
+https://lnkd.in/p/eyd6hnCa
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
 
+[alt text](image.png)
 ---
 
 # Submission Instructions
@@ -185,14 +183,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
-- [ ] `index.html` and `style.css` created and populated (Screenshots 3–4)
-- [ ] Starter files staged and committed in the first commit (Screenshots 5–8)
-- [ ] Student Name and Group Name updated in `index.html` (Screenshot 9)
-- [ ] Second controlled commit created (Screenshots 10–12)
-- [ ] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [✅] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
+- [✅] `index.html` and `style.css` created and populated (Screenshots 3–4)
+- [✅] Starter files staged and committed in the first commit (Screenshots 5–8)
+- [✅] Student Name and Group Name updated in `index.html` (Screenshot 9)
+- [✅] Second controlled commit created (Screenshots 10–12)
+- [✅] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
+- [✅] LinkedIn post published and URL submitted
+- [✅] No sensitive data exposed
 
 ---
 
