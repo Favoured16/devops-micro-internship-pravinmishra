@@ -38,7 +38,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-[alt text](<Chatgpt prompt-1.png>)
+![alt text](<screenshots/Chatgpt prompt-1.png>)
 
 
 
@@ -104,7 +104,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-[alt text](<Application Architecture & Stack.png>)
+![alt text](<screenshots/Application Architecture & Stack.png>)
 
 
 
@@ -192,7 +192,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-[alt text](<vscode dir.png>)
+![alt text](<screenshots/vscode dir.png>)
 
 
 
