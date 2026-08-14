@@ -221,34 +221,34 @@ Choose books that improve:
 ## Book List
 
 1. Atomic Habits By James Clear.
-![alt text](<Atomic Habits.webp>)
+![alt text](<screenshots/Atomic Habits.webp>)
 
 2. Deep Work By Cal Newport.
-![alt text](<Deep work.jpg>)
+![alt text](<screenshots/Deep work.jpg>)
 
 3. The Psychology Of Money By Morgan Housel.
-![alt text](<Power of money.webp>)
+![alt text](<screenshots/Power of money.webp>)
 
 4. Can't Hurt Me By David Goggins.
-![alt text](<Cant hurt me-1.webp>)
+![alt text](<screenshots/Cant hurt me-1.webp>)
 
 5. The Lean Startup By Eric Ries.
-![alt text](<The lean start up.webp>)
+![alt text](<screenshots/The lean start up.webp>)
 
 6. How To Win Freinds And Influence People By Dale Carnegie.
-![alt text](<How to win and influence.webp>)
+![alt text](<screenshots/How to win and influence.webp>)
 
 7. Thinking Fast And Slow By Daniel Kahneman.
-![alt text](<Thinking fast.webp>)
+![alt text](<screenshots/Thinking fast.webp>)
 
 8. Spark By John j. Ratey.
-![alt text](Spark.webp)
+![alt text](screenshots/Spark.webp)
 
 9. So Good They Can't Ignore You By Cal Newport.
-![alt text](<So Good.webp>)
+![alt text](<screenshots/So Good.webp>)
 
 10. The Power of Discipline by Daniel Walter.
-![alt text](<The power of discipline.webp>)
+![alt text](<screenshots/The power of discipline.webp>)
 
 ---
 
@@ -276,17 +276,17 @@ List topics only. No need to share numbers.
 * Spending tracker
 
 ## My Metrics
-
-* I will measure and keep track of how many focused hours of Learning per week.
-* I will measure what i built or projects completed per week.
-* I will measure how many hours spent on exercise sessions to keep fit.
-* I will measure knowledged gained per week by doing what i couldn't do last week .
-* I will measure my Average sleeping hours per week to maintain a healthy lifestlye .
-* I will keep track on how i spend money to avoid unnessary spending.
-* I will measure my Job applications and Interviews.
-* I will measure my professional network growth.
-* I will measure my daily and weekly goals achieved.
-* I will measure books i read completely.
+    my metrics:
+ I will measure and keep track of how many focused hours of Learning per week.
+ I will measure what i built or projects completed per week.
+ I will measure how many hours spent on exercise sessions to keep fit.
+ I will measure knowledged gained per week by doing what i couldn't do last week .
+ I will measure my Average sleeping hours per week to maintain a healthy lifestlye .
+ I will keep track on how i spend money to avoid unnessary spending.
+ I will measure my Job applications and Interviews.
+ I will measure my professional network growth.
+ I will measure my daily and weekly goals achieved.
+ I will measure books i read completely.
 
 ---
 
