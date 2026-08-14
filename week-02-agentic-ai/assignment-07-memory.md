@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-[alt text](<Screenshot showing Memory file path shown by Claude.png>)
+![alt text](<screenshots/Screenshot showing Memory file path shown by Claude.png>)
 ---
 
 # Task 2 — Give Claude Information to Remember
@@ -33,12 +33,12 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-[alt text](<Screenshot with Claude confirming the memory was saved.png>)
+![alt text](<screenshots/Screenshot with Claude confirming the memory was saved.png>)
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-[alt text](<Screenshot with The `MEMORY.md` file open in VS Code showing the saved content.png>)
+![alt text](<screenshots/Screenshot with The `MEMORY.md` file open in VS Code showing the saved content.png>)
 ---
 
 # Task 3 — Close the Session Completely
@@ -51,7 +51,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-[alt text](<Screenshot with VS Code reopened with a fresh Claude Code session showing no previous conversation.png>)
+![alt text](<screenshots/Screenshot with VS Code reopened with a fresh Claude Code session showing no previous conversation.png>)
 ---
 
 # Task 4 — Prove Memory Recall Across Sessions
@@ -64,12 +64,12 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-[alt text](<Screenshot with Claude recalling hero section colors.png>)
+![alt text](<screenshots/Screenshot with Claude recalling hero section colors.png>)
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-[alt text](<Screenshot with Claude refusing JavaScript request based on memory rule-1.png>)
+![alt text](<screenshots/Screenshot with Claude refusing JavaScript request based on memory rule-1.png>)
 ---
 
 # Submission Instructions

@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-[alt text](<Screenshot BLOG published.png>)
+![alt text](<screenshots/Screenshot BLOG published.png>)
 ---
 
 ### Submission Field
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-[alt text](<screenshot linkedin post.png>)
+![alt text](<screenshots/screenshot linkedin post.png>)
 ---
 
 ### Submission Field
