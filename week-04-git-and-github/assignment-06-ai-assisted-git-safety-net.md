@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-[alt text](<Output of git remote v and git branch .png>)
+![alt text](<screenshots/Output of git remote v and git branch .png>)
 
 ---
 
@@ -51,7 +51,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
 
-[alt text](<Output of  git status showing the staged file .png>)
+![alt text](<screenshots/Output of  git status showing the staged file .png>)
 ---
 
 ### Notes
@@ -72,13 +72,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-[alt text](<hooks pre-commit open in VS Code showing the full script.png>)
+![alt text](<screenshots/hooks pre-commit open in VS Code showing the full script.png>)
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-[alt text](<Output of git config core hooksPath.png>)
+![alt text](<screenshots/Output of git config core hooksPath.png>)
 
 ---
 
@@ -112,7 +112,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-[alt text](<Terminal showing git commit rejected with the hook's BLOCKED message.png>)
+![alt text](<screenshots/Terminal showing git commit rejected with the hook's BLOCKED message.png>)
 
 ---
 
@@ -140,13 +140,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-[alt text](<SKILL.md frontmatter showing allowed-tools.png>)
+![alt text](<screenshots/SKILL.md frontmatter showing allowed-tools.png>)
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-![alt text](<pr-ready output while the risky file is still staged.png>)
+![alt text](<screenshots/pr-ready output while the risky file is still staged.png>)
 
 ---
 
@@ -173,13 +173,13 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-[alt text](<git commit succeeding after the fix.png>)
+![alt text](<screenshots/git commit succeeding after the fix.png>)
 
 ---
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-[alt text](<Second pr-ready run showing a clean risk report.png>)
+![alt text](<screenshots/Second pr-ready run showing a clean risk report.png>)
 
 ---
 
@@ -203,7 +203,7 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-![alt text](<Your Pull Request showing the base repository .png>)
+![alt text](<screenshots/Your Pull Request showing the base repository .png>)
 
 ---
 

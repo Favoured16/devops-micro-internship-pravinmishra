@@ -20,13 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-[alt text](<Output of pwd showing you're inside CodeTrack-1.png>)
+![alt text](<screenshots/Output of pwd showing you're inside CodeTrack-1.png>)
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-[alt text](<Output of git status showing no not a git repository error-1.png>)
+![alt text](<screenshots/Output of git status showing no not a git repository error-1.png>)
 
 ---
 
@@ -40,7 +40,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-[alt text](<Output of ls showing index html and style css-1.png>)
+![alt text](<screenshots/Output of ls showing index html and style css-1.png>)
 
 ---
 
@@ -54,8 +54,8 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-[alt text](<Your editor showing the contents of index html.png>)
-[alt text](<your editor showing the contents of style.css.png>)
+![alt text](<screenshots/Your editor showing the contents of index html.png>)
+![alt text](<screenshots/your editor showing the contents of style.css.png>)
 ---
 
 # Task 4 — Track and Stage Files Correctly
@@ -68,13 +68,13 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-[alt text](<Output of git status showing both files as untracked.png>)
+![alt text](<screenshots/Output of git status showing both files as untracked.png>)
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-[alt text](<Output of git status showing both files staged under Changes to be committed.png>)
+![alt text](<screenshots/Output of git status showing both files staged under Changes to be committed.png>)
 
 ---
 
@@ -88,13 +88,13 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-[alt text](<Output of git commit.png>)
+![alt text](<screenshots/Output of git commit.png>)
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-![alt text](<Output of git log oneline showing the first commit.png>)
+![alt text](<screenshots/Output of git log oneline showing the first commit.png>)
 
 ---
 
@@ -108,25 +108,25 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-[alt text](<Browser showing the updated page with  Student Name and Group Name visible.png>)
+![alt text](<screenshots/Browser showing the updated page with  Student Name and Group Name visible.png>)
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-[alt text](<Output of git status showing index html as modified.png>)
+![alt text](<screenshots/Output of git status showing index html as modified.png>)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-[alt text](<Output of git commit showing header.png>)
+![alt text](<screenshots/Output of git commit showing header.png>)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-[alt text](<Output of git log oneline showing two commits-1.png>)
+![alt text](<screenshots/Output of git log oneline showing two commits-1.png>)
 
 ---
 
@@ -140,19 +140,19 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-[alt text](<Output of systemctl status nginx no pager showing Nginx active (running).png>)
+![alt text](<screenshots/Output of systemctl status nginx no pager showing Nginx active (running).png>)
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-![alt text](<Output of curl I http localhost showing HTTP 11 200 OK.png>)
+![alt text](<screenshots/Output of curl I http localhost showing HTTP 11 200 OK.png>)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-[alt text](<Browser showing the CodeTrack site loaded at EC2 PUBLIC IP with  Full Name and Group Name .png>)
+![alt text](<screenshots/Browser showing the CodeTrack site loaded at EC2 PUBLIC IP with  Full Name and Group Name .png>)
 
 ---
 
@@ -169,7 +169,7 @@ https://lnkd.in/p/eyd6hnCa
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
 
-[alt text](image.png)
+![alt text](screenshots/image.png)
 ---
 
 # Submission Instructions
