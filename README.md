@@ -79,11 +79,11 @@ Week 02 → Agentic AI with Claude Code
  Week 03 → Linux & Bash for DevOps
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
- Week 04 → Git & GitHub -->
-[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
+ Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) 
 
- Week 05 → DevOps Lifecycle & Agile -->
- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+<!-- Week 05 → DevOps Lifecycle & Agile -->
+<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)--> 
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -142,8 +142,8 @@ https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudc
 https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483482423679410176-mfbj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs| — |
-| 04 | Bash Scripting | ✅ Completed|✅ Solved |https://lnkd.in/p/eyd6hnCa |https://medium.com/@chibundufavour91/from-local-development-to-live-deployment-my-codetrack-journey-on-aws-ec2-fb81e281d6e6?sharedUserId=chibundufavour91 |
-| 05 | Git & GitHub | ✅ Completed | ✅ Solved |https://lnkd.in/p/eyd6hnCa
+| 04 | Bash Scripting |✅ Completed|✅ Solved |https://lnkd.in/p/eyd6hnCa |https://medium.com/@chibundufavour91/from-local-development-to-live-deployment-my-codetrack-journey-on-aws-ec2-fb81e281d6e6?sharedUserId=chibundufavour91 |
+| 05 | Git & GitHub |✅ Completed |✅ Solved |https://lnkd.in/p/eyd6hnCa
 https://lnkd.in/p/eyd6hnCa
 https://lnkd.in/p/gZkCajZV
 https://lnkd.in/p/dW9wstpv — | — |
