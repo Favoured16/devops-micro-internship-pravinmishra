@@ -21,13 +21,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
 
-![alt text](<Output of systemctl is active nginx ss ltn  grep 80 and curl I http localhost.png>)
+![alt text](<screenshots/Output of systemctl is active nginx ss ltn  grep 80 and curl I http localhost.png>)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
->![alt text](<Output of pwd and find  maxdepth 4 type d  sort showing the workspace folder structure.png>)
+>![alt text](<screenshots/Output of pwd and find  maxdepth 4 type d  sort showing the workspace folder structure.png>)
 ---
 
 ### Notes
@@ -36,18 +36,18 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
->When I run systemctl is-active nginx, it returns active. This confirms that Nginx is running.
+When I run systemctl is-active nginx, it returns active. This confirms that Nginx is running.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
->The server is proven to be listening for HTTP traffic by the ss -tulpen output, which shows tcp LISTEN 0.0.0.0:80 associated with the Nginx process. This indicates that Nginx is actively listening on port 80 across all network interfaces and is ready to accept incoming HTTP requests.
+The server is proven to be listening for HTTP traffic by the ss -tulpen output, which shows tcp LISTEN 0.0.0.0:80 associated with the Nginx process. This indicates that Nginx is actively listening on port 80 across all network interfaces and is ready to accept incoming HTTP requests.
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
->It is important to capture a healthy baseline before simulating an incident to establish a known-good state of the system. This confirms that the application and services are functioning correctly before any changes are made. After the incident is simulated, the failed state can be compared with the healthy baseline to identify what changed. Once the issue has been resolved, the same checks can be repeated to verify that the system has been fully restored to its normal operating condition.
+It is important to capture a healthy baseline before simulating an incident to establish a known-good state of the system. This confirms that the application and services are functioning correctly before any changes are made. After the incident is simulated, the failed state can be compared with the healthy baseline to identify what changed. Once the issue has been resolved, the same checks can be repeated to verify that the system has been fully restored to its normal operating condition.
 ---
 
 # Task 2 — Create Project Context and Safety Rules in CLAUDE.md
@@ -61,7 +61,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
 
-![alt text](<CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules Output Rules.png>))
+![alt text](<screenshots/CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules Output Rules.png>))
 ---
 
 ### Notes
@@ -70,18 +70,18 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
->Claude should receive project-specific operational rules so it can provide accurate, consistent, and context-aware assistance. These rules help ensure that recommendations and actions align with the project's standards, workflows, and safety requirements. By understanding project-specific guidelines, Claude can reduce errors, follow best practices, and generate responses that are more relevant to the team's operational processes.
+Claude should receive project-specific operational rules so it can provide accurate, consistent, and context-aware assistance. These rules help ensure that recommendations and actions align with the project's standards, workflows, and safety requirements. By understanding project-specific guidelines, Claude can reduce errors, follow best practices, and generate responses that are more relevant to the team's operational processes.
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-> The human is required to execute the recovery command because recovery actions can directly affect production systems. Requiring human approval ensures that the proposed fix is reviewed and verified before it is applied, reducing the risk of accidental changes, service disruptions, or data loss. This human oversight provides an important safety check, ensuring that recovery actions are intentional, appropriate, and aligned with operational policies and best practices.
+The human is required to execute the recovery command because recovery actions can directly affect production systems. Requiring human approval ensures that the proposed fix is reviewed and verified before it is applied, reducing the risk of accidental changes, service disruptions, or data loss. This human oversight provides an important safety check, ensuring that recovery actions are intentional, appropriate, and aligned with operational policies and best practices.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
->The rule “Do not claim a root cause unless the report contains supporting evidence” prevents Claude from giving a diagnosis that is not supported by the report.
+The rule “Do not claim a root cause unless the report contains supporting evidence” prevents Claude from giving a diagnosis that is not supported by the report.
 
 ---
 
@@ -96,7 +96,7 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
 
-!![alt text](<Claude Code showing the five-check plan and read-only inspection results-1.png>)
+!![alt text](<screenshots/Claude Code showing the five-check plan and read-only inspection results-1.png>)
 ---
 
 ### Notes
@@ -132,25 +132,25 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
 
-![alt text](<Top section of `linux-triage.sh` showing variables, thresholds, and the checks array-1.png>)
+![alt text](<screenshots/Top section of `linux-triage.sh` showing variables, thresholds, and the checks array-1.png>)
 
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
 
-![alt text](<Middle section showing check functions and conditionals-1.png>)
+![alt text](<screenshots/Middle section showing check functions and conditionals-1.png>)
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
 
-![alt text](<Bottom section showing the loop, summary function, and exit behavior.png>)
+![alt text](<screenshots/Bottom section showing the loop, summary function, and exit behavior.png>)
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
 
-!![alt text](<Output of `bash -n scripts and ls-l showing permision.png>)
+!![alt text](<screenshots/Output of `bash -n scripts and ls-l showing permision.png>)
 ---
 
 ### Notes
@@ -206,13 +206,13 @@ Run the Bash script against the healthy server and verify that it creates a repo
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
 
-![alt text](<Output of scripts linux triage sh showing your Full Name and all five check results.png>)
+![alt text](<screenshots/Output of scripts linux triage sh showing your Full Name and all five check results.png>)
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
 
-![alt text](<Output showing the captured exit code and final summary.png>)
+![alt text](<screenshots/Output showing the captured exit code and final summary.png>)
 ---
 
 ### Notes
@@ -259,13 +259,13 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
 
-![alt text](<SKILL md showing the frontmatter, allowed tool restrictions and safety rules.png>)
+![alt text](<screenshots/SKILL md showing the frontmatter, allowed tool restrictions and safety rules.png>)
 ---
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
 
-![alt text](<linux triage output for the healthy server.png>)
+![alt text](<screenshots/linux triage output for the healthy server.png>)
 ---
 
 ### Notes
@@ -311,7 +311,7 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
 
-![alt text](<Output showing Nginx is inactive and the HTTP request fails.png>)
+![alt text](<screenshots/Output showing Nginx is inactive and the HTTP request fails.png>)
 ---
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
@@ -321,7 +321,7 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-![alt text](<incident failure report showing the failed checks and my Full Namee.png>)
+![alt text](<screenshots/incident failure report showing the failed checks and my Full Namee.png>)
 ---
 
 ### Notes
@@ -372,23 +372,23 @@ Recover the service as the human operator and prove that the system is healthy a
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
 
-![alt text](<Output showing Nginx is active and localhost returns 200 OK.png>)
+![alt text](<screenshots/Output showing Nginx is active and localhost returns 200 OK.png>)
 ---
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-![alt text](<Output of  linux triage showing no fail.png>)
+![alt text](<screenshots/Output of  linux triage showing no fail.png>)
 
 ---
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-![alt text](<Output of ls lah reports showing both incident failure report txt and recovery report txt.png>)
+![alt text](<screenshots/Output of ls lah reports showing both incident failure report txt and recovery report txt.png>)
 ---
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-!![alt text](<incident summary md showing all required sections and my Full Name-1.png>)
+!![alt text](<screenshots/incident summary md showing all required sections and my Full Name-1.png>)
 ---
 
 ### Notes
@@ -489,7 +489,7 @@ Gather: The Bash script collected read-only evidence by checking the Nginx servi
 
 #### LinkedIn Post URL
 
-`https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
+https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 ---
 
@@ -500,9 +500,8 @@ Gather: The Bash script collected read-only evidence by checking the Nginx servi
 
 # GitHub Repository URL
 
-`https://github.com/Favoured16/devops-micro-internship-pravinmishra.git`
-
----
+https://github.com/Favoured16/devops-micro-internship-pravinmishra.git
+ ---
 
 # Submission Instructions
 

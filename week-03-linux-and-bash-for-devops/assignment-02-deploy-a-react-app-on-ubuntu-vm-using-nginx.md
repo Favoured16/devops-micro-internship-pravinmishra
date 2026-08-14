@@ -20,7 +20,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-![alt text](<Output of `node -v && npm -v` showing installed versions.png>)
+![alt text](<screenshots/Output of `node -v && npm -v` showing installed versions.png>)
 ---
 
 # Task 2 — Setup Environment (Nginx)
@@ -33,7 +33,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-![alt text](<Output of `systemctl status nginx -no-pager` showing Active (running).png>)
+![alt text](<screenshots/Output of `systemctl status nginx -no-pager` showing Active (running).png>)
 ---
 
 # Task 3 — Clone React Application
@@ -46,7 +46,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-![alt text](<Output of `ls` inside the `my-react-app` directory showing project files.png>)
+![alt text](<screenshots/Output of `ls` inside the `my-react-app` directory showing project files.png>)
 ---
 
 # Task 4 — Modify Application (Personalization)
@@ -59,7 +59,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-![alt text](<Nano App.js open showing my full name and date filled in.png>)
+![alt text](<screenshots/Nano App.js open showing my full name and date filled in.png>)
 ---
 
 # Task 5 — Build React Application
@@ -72,7 +72,7 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-![alt text](<Output of ls inside myreact app showing the build generated.png>)
+![alt text](<screenshots/Output of ls inside myreact app showing the build generated.png>)
 ---
 
 # Task 6 — Deploy React Build to Nginx Web Root
@@ -85,7 +85,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-![alt text](<Output of ls var www html showing the deployed build contents.png>)
+![alt text](<screenshots/Output of ls var www html showing the deployed build contents.png>)
 ---
 
 # Task 7 — Configure Nginx for React Application
@@ -98,12 +98,12 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-![alt text](<Output of systemctl is active and nginx showing active.png>)
+![alt text](<screenshots/Output of systemctl is active and nginx showing active.png>)
 ---
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-![alt text](<Output of cat etc nginx sites available ,default showing the Nginx config.png>)
+![alt text](<screenshots/Output of cat etc nginx sites available ,default showing the Nginx config.png>)
 ---
 
 # Task 8 — Test Deployment
@@ -116,13 +116,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![alt text](<Output of curl ifconfig.me showing the server's public IP address.png>)
+![alt text](<screenshots/Output of curl ifconfig.me showing the server's public IP address.png>)
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
 
-![alt text](<Browser showing the deployed React app with my name and date visible.png>)
+![alt text](<screenshots/Browser showing the deployed React app with my name and date visible.png>)
 ---
 
 # LinkedIn Post (Required)
@@ -131,13 +131,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### LinkedIn Post URL
 
-`https://lnkd.in/p/dcFpVRkD`
+https://lnkd.in/p/dcFpVRkD
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-![alt text](<Linkedin screenshot.png>)
+![alt text](<screenshots/Linkedin screenshot.png>)
 ---
 
 # Submission Instructions

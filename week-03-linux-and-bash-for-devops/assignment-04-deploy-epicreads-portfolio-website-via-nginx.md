@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-![alt text](<Output of sudo systemctl status nginx no pager showing Active.png>)
+![alt text](<screenshots/Output of sudo systemctl status nginx no pager showing Active.png>)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-![alt text](<Output of ls la Showing the extracted project folder.png>)
+![alt text](<screenshots/Output of ls la Showing the extracted project folder.png>)
 ---
 
 # Task 2 — Add Ownership Proof (Anti-Copy Change)
@@ -48,7 +48,7 @@ Update the website footer with your deployment details.
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
 
-![alt text](<Add Ownership Proof (Anti-Copy Change).png>)
+![alt text](<screenshots/Add Ownership Proof (Anti-Copy Change).png>)
 ---
 
 # Task 3 — Deploy Website via Nginx
@@ -62,13 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
 
-![alt text](<Output of sudo nginx -t showing configuration test successful.png>)
+![alt text](<screenshots/Output of sudo nginx -t showing configuration test successful.png>)
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
 
-![alt text](<Output of ls var www html showing deployed website files.png>)
+![alt text](<screenshots/Output of ls var www html showing deployed website files.png>)
 ---
 
 # Task 4 — Verify Website is Live
@@ -82,13 +82,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
 
-![alt text](<Output of curl ifconfig.me showing the server's public IP addresss.png>)
+![alt text](<screenshots/Output of curl ifconfig.me showing the server's public IP addresss.png>)
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
 
-![alt text](<Browser showing the live Website with my Full Name and deployment details in the Footer.png>)
+![alt text](<screenshots/Browser showing the live Website with my Full Name and deployment details in the Footer.png>)
 ---
 
 # Task 5 — Mini Real DevOps Operational Check
@@ -101,13 +101,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-![alt text](<Output of systemctl is enabled nginx.png>)
+![alt text](<screenshots/Output of systemctl is enabled nginx.png>)
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
 
-![alt text](<Output of curl I http localhost Showing 200 OK.png>)
+![alt text](<screenshots/Output of curl I http localhost Showing 200 OK.png>)
 ---
 
 # LinkedIn Post (Mandatory)
@@ -116,14 +116,14 @@ Verify the deployed website and Nginx service are healthy.
 
 #### LinkedIn Post URL
 
-`https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs`
+https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
 
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
 ---
 
 # Submission Instructions
