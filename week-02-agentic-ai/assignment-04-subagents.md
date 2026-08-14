@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-![alt text](<Screenshot of vscode showing claude agent with 3 files.png>)
+![alt text](<screenshots/Screenshot of vscode showing claude agent with 3 files.png>)
 ---
 
 # Task 2 — Compare the Agent Configurations
