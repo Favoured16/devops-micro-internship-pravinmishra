@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Favour Ngozi Chibundu |
-| **LinkedIn** | www.linkedin.com/in/favour-chibundu-323793353 |
+| **LinkedIn** | [favour-chibundu-323793353](https://www.linkedin.com/in/favour-chibundu-323793353) |
 | **Location** | Enugu, Nigeria |
 | **Background** | Cloud, DevOps & AI Intern |
 | **Goal** | To Work As a Cloud /DevOps Engineer |
