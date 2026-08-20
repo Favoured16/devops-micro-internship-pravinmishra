@@ -67,23 +67,23 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
- Week 00 → Internet & Networking Basics 
- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
+<!-- Week 00 → Internet & Networking Basics -->
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
- Week 01 → Success Mindset 
+<!-- Week 01 → Success Mindset -->
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-Week 02 → Agentic AI with Claude Code 
- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
+<!-- Week 02 → Agentic AI with Claude Code -->
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
- Week 03 → Linux & Bash for DevOps
-[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
+<!-- Week 03 → Linux & Bash for DevOps -->
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
- Week 04 → Git & GitHub 
-[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) 
+<!-- Week 04 → Git & GitHub -->
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)--> 
+<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -130,32 +130,20 @@ Week 02 → Agentic AI with Claude Code
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
----
- 
-| 00 | Internet & Networking Basics |✅ Completed |✅ Solved|https://www.linkedin.com/posts/favour-chibundu-323793353_learning-devops-cloudcomputing-activity-7396199295395237889-NfYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs|
-| 01 | Success Mindset | ✅ Completed |✅ Solved |https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs|https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6 |https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91 
-| 02 | Agentic AI with Claude Code |✅ Completed |✅ Solved|https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-activity-7481446062914850817-S1u1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-|https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91
-| 03 | Linux for DevOps |✅ Completed |✅ Solved |https://lnkd.in/p/dcFpVRkD
-https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483482423679410176-mfbj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs
-https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs| — |
-| 04 | Bash Scripting |✅ Completed|✅ Solved |https://lnkd.in/p/eyd6hnCa |https://medium.com/@chibundufavour91/from-local-development-to-live-deployment-my-codetrack-journey-on-aws-ec2-fb81e281d6e6?sharedUserId=chibundufavour91 |
-| 05 | Git & GitHub |✅ Completed |✅ Solved |https://lnkd.in/p/eyd6hnCa
-https://lnkd.in/p/eyd6hnCa
-https://lnkd.in/p/gZkCajZV
-https://lnkd.in/p/dW9wstpv — | — |
-| 06 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
-| 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Post](https://www.linkedin.com/posts/favour-chibundu-323793353_learning-devops-cloudcomputing-activity-7396199295395237889-NfYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | [Post](https://www.linkedin.com/posts/favour-chibundu-323793353_chibundu-favour-made-a-bold-decision-to-transition-share-7478136779792113664-6MFs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | [Article](https://medium.com/@chibundufavour91/chibundu-favour-made-a-bold-decision-to-transition-from-broadcast-engineering-into-the-world-of-dba5d65064f6) |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Post 1](https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 2](https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 3](https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-activity-7481446062914850817-S1u1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | [Article](https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91) |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Post 1](https://lnkd.in/p/dcFpVRkD)<br>[Post 2](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483482423679410176-mfbj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 3](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 4](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 5](https://www.linkedin.com/posts/favour-chibundu-323793353_aws-ec2-reactjs-activity-7483854754897518592-5PXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Post 1](https://lnkd.in/p/eyd6hnCa)<br>[Post 2](https://lnkd.in/p/gZkCajZV)<br>[Post 3](https://lnkd.in/p/dW9wstpv) | [Article](https://medium.com/@chibundufavour91/from-local-development-to-live-deployment-my-codetrack-journey-on-aws-ec2-fb81e281d6e6?sharedUserId=chibundufavour91) |
+| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
+| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
+| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
+| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
+| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
@@ -176,6 +164,6 @@ https://lnkd.in/p/dW9wstpv — | — |
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on (www.linkedin.com/in/favour-chibundu-323793353)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/favour-chibundu-323793353)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
