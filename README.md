@@ -83,7 +83,7 @@ This is not a course. It is an internship-style program — real deployments, re
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+ [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Post 1](https://www.linkedin.com/posts/favour-chibundu-323793353_week-1-of-my-dmi-cohort-3agentic-ai-share-7478759110407196672-Q7_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 2](https://www.linkedin.com/posts/favour-chibundu-323793353_dmibypravinmishra-agenticai-claudecode-ugcPost-7481003483496660993-PqGt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 3](https://www.linkedin.com/posts/favour-chibundu-323793353_agenticai-devops-cloudcomputing-activity-7481446062914850817-S1u1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | [Article](https://medium.com/@chibundufavour91/reflection-week-2-a97cb555793a?sharedUserId=chibundufavour91) |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Post 1](https://lnkd.in/p/dcFpVRkD)<br>[Post 2](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483482423679410176-mfbj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 3](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 4](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 5](https://www.linkedin.com/posts/favour-chibundu-323793353_aws-ec2-reactjs-activity-7483854754897518592-5PXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | — |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Post 1](https://lnkd.in/p/eyd6hnCa)<br>[Post 2](https://lnkd.in/p/gZkCajZV)<br>[Post 3](https://lnkd.in/p/dW9wstpv) | [Article](https://medium.com/@chibundufavour91/from-local-development-to-live-deployment-my-codetrack-journey-on-aws-ec2-fb81e281d6e6?sharedUserId=chibundufavour91) |
-| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved  | https://lnkd.in/p/etfxTP5p| — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
