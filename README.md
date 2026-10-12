@@ -86,10 +86,10 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
 <!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+ [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/)
 
 <!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+ [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) 
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -136,8 +136,8 @@ This is not a course. It is an internship-style program — real deployments, re
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Post 1](https://lnkd.in/p/dcFpVRkD)<br>[Post 2](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483482423679410176-mfbj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 3](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-aws-ec2-activity-7483523478332223490-LE7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 4](https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activity-7484291240604315648-aVMC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs)<br>[Post 5](https://www.linkedin.com/posts/favour-chibundu-323793353_aws-ec2-reactjs-activity-7483854754897518592-5PXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFg28wsB9vXuv3Kyn9OulOUEyNs4CtNMXQs) | — |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Post 1](https://lnkd.in/p/eyd6hnCa)<br>[Post 2](https://lnkd.in/p/gZkCajZV)<br>[Post 3](https://lnkd.in/p/dW9wstpv) | [Article](https://medium.com/@chibundufavour91/from-local-development-to-live-deployment-my-codetrack-journey-on-aws-ec2-fb81e281d6e6?sharedUserId=chibundufavour91) |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved  | https://lnkd.in/p/etfxTP5p| — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://lnkd.in/p/eBt3T3Cv | — |
+| 07 | Azure Cloud | 🔄 In Progress | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
