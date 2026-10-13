@@ -263,7 +263,7 @@ Use file checks and conditionals to verify whether files and directories exist.
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
 
-!![alt text](<screenshots/Output of ls lah test folder-1.png>)
+![alt text](<screenshots/Output of ls lah test folder-1.png>)
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
@@ -436,7 +436,7 @@ This final script combines several core Bash scripting concepts to automate comm
 #### Screenshot — Published LinkedIn post
 
 
-!![alt text](<screenshots/Published LinkedIn post.png>)
+![alt text](<screenshots/Published LinkedIn post.png>)
 ---
 
 # Submission Instructions
