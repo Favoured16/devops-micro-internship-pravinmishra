@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-![alt text](<Architecture Diagram showing 6b subnet with their AZ-1.png>)
+![alt text](<screenshots/Architecture Diagram showing 6b subnet with their AZ-1.png>)
 
 ---
 
@@ -106,37 +106,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-![alt text](<Web EC2-1.png>)
+![alt text](<screenshots/Web EC2-1.png>)
 
 ---
 
 #### App EC2
 
-![alt text](<App EC2.png>)
+![alt text](<screenshots/App EC2.png>)
 
 ---
 
 #### Public ALB
 
-![alt text](<ALB details showing two public subnets in two Availability Zones-1.png>)
+![alt text](<screenshots/ALB details showing two public subnets in two Availability Zones-1.png>)
 
 ---
 
 #### Internal ALB
 
-![alt text](<Internal ALB.png>)
+![alt text](<screenshots/Internal ALB.png>)
 
 ---
 
 #### RDS + Replica
 
-![alt text](<RDS + Replica.png>)
+![alt text](<screenshots/RDS + Replica.png>)
 
 ---
 
 #### App UI proof
 
-![alt text](<App UI proof.png>)
+![alt text](<screenshots/App UI proof.png>)
 
 ---
 
@@ -212,7 +212,7 @@ https://lnkd.in/p/eCppqqs4
 
 #### Screenshot of LinkedIn post
 
-![alt text](<linkdin post.png>)
+![alt text](<screenshots/linkdin post.png>)
 
 ---
 

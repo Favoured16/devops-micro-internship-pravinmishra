@@ -93,7 +93,7 @@ Celebrate your progress and share your DMI Leaderboard achievement on WhatsApp.
 
 #### Screenshot 7 — Your shared WhatsApp Status or community message showing the automatically generated leaderboard rank and personal progress link
 
-![alt text](<Your shared WhatsApp Status or community message showing the generated leaderboard rank and personal progress link.png>)
+![alt text](<screenshots/Your shared WhatsApp Status or community message showing the generated leaderboard rank and personal progress link.png>)
 
 ---
 

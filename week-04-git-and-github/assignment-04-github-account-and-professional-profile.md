@@ -79,8 +79,7 @@ Share your GitHub learning progress on WhatsApp Status, including your generated
 
 #### Screenshot 7 — Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link
 
-![Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link](<Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link.jpeg>)
-
+![alt text](<Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link-1.jpeg>)
 
 # Submission Instructions
 

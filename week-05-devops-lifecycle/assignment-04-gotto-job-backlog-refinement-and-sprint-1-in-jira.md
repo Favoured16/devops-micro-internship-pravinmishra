@@ -204,7 +204,7 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/etfxTP5p`
+https://lnkd.in/p/etfxTP5p
 
 ---
 

@@ -182,7 +182,7 @@ Publish a LinkedIn post about your five-day mini-Sprint, including your GitHub r
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/ezxHBfai`
+https://lnkd.in/p/ezxHBfai
 
 ---
 

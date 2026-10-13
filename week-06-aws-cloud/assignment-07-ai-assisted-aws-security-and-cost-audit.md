@@ -24,13 +24,13 @@ Confirm your AWS CLI is authenticated and can see the S3 bucket, EC2 instance(s)
 
 #### Screenshot 1 — Output of `aws s3 ls`, the EC2 instance table, and the RDS instance table (blur the Account ID if visible)
 
-![alt text](<Output of Aws S3 ls,RDS and EC2 Instance Table.png>)
+![alt text](<screenshots/Output of Aws S3 ls,RDS and EC2 Instance Table.png>)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort`
 
-![alt text](<Output of`pwd and find  maxdepth 4 type d  sort.png>)
+![alt text](<screenshots/Output of`pwd and find  maxdepth 4 type d  sort.png>)
 
 ---
 
@@ -56,7 +56,7 @@ Create a `CLAUDE.md` in your workspace that tells Claude the audit script is rea
 
 #### Screenshot 3 — `CLAUDE.md` open in VS Code showing all four sections
 
-![alt text](<CLAUDE.md` open in VS Code showing all four sections.png>)
+![alt text](<screenshots/CLAUDE.md` open in VS Code showing all four sections.png>)
 
 ---
 
@@ -82,7 +82,7 @@ Ask Claude Code to propose a read-only audit plan covering five checks — S3 pu
 
 #### Screenshot 4 — Claude Code showing the five-check plan
 
-![alt text](<Claude Code showing the five-check plan.png>)
+![alt text](<screenshots/Claude Code showing the five-check plan.png>)
 
 ---
 
@@ -110,19 +110,19 @@ Make it executable and confirm it has no syntax errors.
 
 #### Screenshot 5 — Top section of `aws-audit.sh` showing the variables and the checks array
 
-![alt text](<Top section of `aws-audit.sh-2.png>)
+![alt text](<screenshots/Top section of `aws-audit.sh-2.png>)
 
 ---
 
 #### Screenshot 6 — One check function (for example `check_ssh_open_to_world`) showing the AWS CLI call and conditional
 
-![alt text](<One check function.png>)
+![alt text](<screenshots/One check function.png>)
 
 ---
 
 #### Screenshot 7 — Output of `bash -n scripts/aws-audit.sh` and `ls -l scripts/aws-audit.sh`
 
-![alt text](<Output of bash -n scripts aws-audit.sh.png>)
+![alt text](<screenshots/Output of bash -n scripts aws-audit.sh.png>)
 
 ---
 
@@ -152,13 +152,13 @@ Run the script against your live AWS account and capture the current state befor
 
 #### Screenshot 8 — Output of `./scripts/aws-audit.sh` showing your Full Name and all five checks
 
-![alt text](<Output of scripts aws-audit.sh.png>)
+![alt text](<screenshots/Output of scripts aws-audit.sh.png>)
 
 ---
 
 #### Screenshot 9 — Output showing the captured exit code and final summary
 
-![alt text](<Output showing the captured exit code and final summaryy.png>)
+![alt text](<screenshots/Output showing the captured exit code and final summaryy.png>)
 
 ---
 
@@ -202,13 +202,13 @@ Turn the script into a Claude Code skill named `/aws-audit` that runs the script
 
 #### Screenshot 10 — `SKILL.md` showing the frontmatter, tool restrictions, and safety rules
 
-![alt text](<SKILL.md showing the frontmatter tool restrictions and safety rules.png>)
+![alt text](<screenshots/SKILL.md showing the frontmatter tool restrictions and safety rules.png>)
 
 ---
 
 #### Screenshot 11 — `/aws-audit` output showing findings, cost/risk impact, and a recommended remediation command (or a clean report if your baseline passed everything)
 
-![alt text](<aws audit output showing findings, cost ,remediation.png>)
+![alt text](<screenshots/aws audit output showing findings, cost ,remediation.png>)
 
 ---
 
@@ -238,13 +238,13 @@ Pick one real finding from your baseline report (or deliberately open a security
 
 #### Screenshot 12 — Output of the `revoke-security-group-ingress` and `authorize-security-group-ingress` commands you ran yourself
 
-![alt text](<Output of the revoke security group ingress and authorize security group ingress.png>)
+![alt text](<screenshots/Output of the revoke security group ingress and authorize security group ingress.png>)
 
 ---
 
 #### Screenshot 13 — Rerun of `./scripts/aws-audit.sh` showing the finding is now PASS
 
-![alt text](<Rerun of scripts aws audit sh showing the finding is now PASS.png>)
+![alt text](<screenshots/Rerun of scripts aws audit sh showing the finding is now PASS.png>)
 
 ---
 
@@ -304,14 +304,13 @@ Suggested tags:
 
 #### LinkedIn Post URL
 
-
 https://lnkd.in/p/eBt3T3Cv
 
 ---
 
 #### Screenshot of Published LinkedIn Post
 
-![alt text](<linkdin screenshot week 6.png>)
+![alt text](<screenshots/linkdin screenshot week 6.png>)
 
 ---
 
