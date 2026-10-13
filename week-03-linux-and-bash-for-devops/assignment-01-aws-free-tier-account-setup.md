@@ -76,7 +76,7 @@ Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence
 
 #### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
 
-![Published WhatsApp Status showing AWS onboarding progress](<Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible.png>)
+![Published WhatsApp Status showing AWS onboarding progress](<screenshots/Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible.png>)
 
 ---
 ---
