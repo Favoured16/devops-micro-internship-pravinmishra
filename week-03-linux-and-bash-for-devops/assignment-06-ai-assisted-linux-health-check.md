@@ -61,7 +61,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
 
-![alt text](<screenshots/CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules Output Rules.png>))
+![alt text](<screenshots/CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules Output Rules.png>)
 ---
 
 ### Notes
@@ -495,7 +495,7 @@ https://www.linkedin.com/posts/favour-chibundu-323793353_devops-linux-bash-activ
 
 #### Screenshot — Published LinkedIn post
 
-![alt text](image-3.png)
+![alt text](screenshots/image-3.png)
 ---
 
 # GitHub Repository URL
