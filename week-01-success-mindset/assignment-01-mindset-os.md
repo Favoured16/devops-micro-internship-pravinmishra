@@ -1,6 +1,6 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -56,7 +56,7 @@ Write each truth in this format:
 Skills create opportunities.
 
 
-### Evidence from my life
+**Evidence from My Life**
 
 Investing in high value skills has consistently opened doors that credentials alone could not,I focus on testing ideas, learning from results, and continously improving myself.
 
@@ -290,9 +290,9 @@ List topics only. No need to share numbers.
 
 ---
 
-# Assignment 7. Brain Dump + 5-Month System Plan
+## Task 7 — Brain Dump and Three-Month System Plan
 
-## Step 1: Brain Dump (Private)
+### Step 1 — Brain Dump (Private)
 
 Do a brain dump of everything in your mind into a notebook.
 
@@ -342,7 +342,7 @@ Sunday : Weekly Review 2 hours every sunday
 
 I will start doing my DMI work From Sunday till Friday at least devoting 2 hours for each day.
 
-#### How Many Sessions Per Week?
+#### How Many DMI Work Sessions Will I Complete Each Week?
 
 6 sesssions per week
 
@@ -364,13 +364,13 @@ Avoiding late night screen time.
 
 ---
 
-# Reflection – Week 1
+## Task 8 — Week 1 Reflection and Proof of Work
 
-### Biggest insight I got about myself this week
+### Biggest Insight I Got About Myself This Week
 
 This week, I realized that my mindset has a direct impact on my results. Success begins with the beliefs I choose to hold and the actions I consistently take. I discovered that when I focus on growth, embrace challenges as learning opportunities, and remain disciplined, I become more confident and productive. This insight has reinforced my commitment to developing habits and a mindset that supports long-term success. Small ,consistent improvements gave me more confidence than trying to learn everything at once.I also need to protect my focus by reducing distractions during my study sessions.
 
-### My biggest weakness/loop I noticed
+### My Biggest Weakness or Loop I Noticed
 
 I noticed that  I can be inconsistent with my study routine when my schedule gets busy.
 I also noticed that I sometimes watch tutorials without spending enough time practicing what I learned.
@@ -378,7 +378,7 @@ I compare my progress with others, which sometimes affects my motivation.
 I try to learn too many topics at once, which reduces my focus.
 I spend too much time trying to get things perfect instead of making progress.
 
-### One system I will implement from this week (exact habit + time)
+### One System I Will Implement From This Week (Exact Habit and Time)
 
 From this week, I will study every day for 2 hours,During this time, my phone will be on Do Not Disturb, I will focus on one topic only, spend at least 1 hour on hands-on practice, and end each session with a 30-minutes review of what I learned, then plan for tomorrow.
 ### LinkedIn Post
@@ -413,4 +413,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*

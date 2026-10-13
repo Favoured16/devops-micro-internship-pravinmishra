@@ -148,9 +148,22 @@ Locate the Burndown Chart for Sprint 1 so it is ready for later progress trackin
 
 ---
 
+# LinkedIn Post (Required)
+
+## Evidence
+
+### LinkedIn Post URL
+
+https://lnkd.in/p/dekBt7gZ
+
+### Screenshot 13 — LinkedIn Post Showing Your Scrum Project Setup and DMI Leaderboard Progress Link
+
+![LinkedIn Post Showing Your Scrum Project Setup and DMI Leaderboard Progress Link](<LinkedIn Post Showing Your Scrum Project Setup and DMI Leaderboard Progress Link.png>)
+
+
 # Submission Instructions
 
-- Add all 12 required screenshots in the specified order
+- Add all 12 required screenshots in the specified order and the LinkedIn post screenshot.
 - Full name must be visible in required screenshots
 - Do not expose passwords, verification codes, private email content, account recovery details, or other sensitive information
 ---
@@ -165,6 +178,7 @@ Locate the Burndown Chart for Sprint 1 so it is ready for later progress trackin
 - [✅] Task 6: One-week Sprint 1 started with the required Sprint Goal (Screenshots 8 & 9)
 - [✅] Task 7: Frontend and devops filters demonstrated (Screenshots 10 & 11)
 - [✅] Task 8: Burndown Chart opened for Sprint 1 (Screenshot 12)
+- [✅] LinkedIn post published and URL included
 - [✅] Full Name visible in required screenshots
 - [✅] No sensitive data exposed
 

@@ -164,6 +164,19 @@ Delete the merged `feature/contact-page` branch to keep your branch list clean.
 
 ---
 
+# LinkedIn Post (Required)
+
+## Evidence
+
+### LinkedIn Post URL
+
+https://lnkd.in/p/duPnrNsy
+
+### Screenshot 16 — LinkedIn post published with the Git branching workflow summary
+
+![LinkedIn post published with the Git branching workflow summary](<LinkedIn post published with the Git branching workflow summary.png>)
+
+
 # Submission Instructions
 
 - Tasks 1–7 are required; Task 8 is optional

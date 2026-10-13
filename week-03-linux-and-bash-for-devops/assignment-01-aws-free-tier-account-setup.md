@@ -63,6 +63,22 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
 ![alt text](<screenshots/AWS Account page showing account name with email verify.png>)
+
+---
+
+# Task 4 — Share Your AWS Cloud Onboarding Progress
+
+## Goal
+
+Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence of the published status.
+
+### Evidence
+
+#### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
+
+![Published WhatsApp Status showing AWS onboarding progress](<Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible.png>)
+
+---
 ---
 
 # Submission Instructions
@@ -80,7 +96,8 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 - [✅] Signed in to AWS Management Console
 - [✅] Screenshot of AWS Account page captured (full name visible, no sensitive data)
 - [✅] All required screenshots added to repository
-
+- [✅] Task 4: AWS onboarding progress shared on WhatsApp Status
+- [✅] Screenshot 2 of published WhatsApp Status captured with leaderboard progress link visible
 ---
 
 ## 📌 About DMI & CloudAdvisory

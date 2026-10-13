@@ -69,6 +69,18 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 ![alt text](<screenshots/My public GitHub profile showing your username and professional bio.png>)
 
 ---
+# Task 4 — Share Your GitHub Setup Progress on WhatsApp Status
+
+## Goal
+
+Share your GitHub learning progress on WhatsApp Status, including your generated DMI leaderboard progress link.
+
+### Evidence
+
+#### Screenshot 7 — Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link
+
+![Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link](<Published WhatsApp Status showing your GitHub setup message and generated DMI leaderboard progress link.jpeg>)
+
 
 # Submission Instructions
 

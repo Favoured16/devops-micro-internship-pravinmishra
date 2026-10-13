@@ -1,6 +1,6 @@
 # Assignment 6 — Build an AI-Assisted Linux Health Check (AI-Assisted Linux Incident Triage)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -96,7 +96,7 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
 
-!![alt text](<screenshots/Claude Code showing the five-check plan and read-only inspection results-1.png>)
+![alt text](<screenshots/Claude Code showing the five-check plan and read-only inspection results-1.png>)
 ---
 
 ### Notes
@@ -150,7 +150,7 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
 
-!![alt text](<screenshots/Output of `bash -n scripts and ls-l showing permision.png>)
+![alt text](<screenshots/Output of `bash -n scripts and ls-l showing permision.png>)
 ---
 
 ### Notes
@@ -388,7 +388,7 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-!![alt text](<screenshots/incident summary md showing all required sections and my Full Name-1.png>)
+![alt text](<screenshots/incident summary md showing all required sections and my Full Name-1.png>)
 ---
 
 ### Notes
@@ -552,4 +552,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
