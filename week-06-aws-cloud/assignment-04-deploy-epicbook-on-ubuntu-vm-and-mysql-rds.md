@@ -198,7 +198,7 @@ Verify the frontend loads publicly, the backend responds through Nginx, and EC2 
 
 #### Screenshot 20 — Terminal showing a successful API call through the public endpoint, such as `curl http://<EC2_PUBLIC_IP>/api/...`
 
-![alt text](<screenshots/Terminal showing a successful API call through the public endpoint.png>)
+![alt text](<screenshots/Terminal showing a successful API call through the public endpoint1.png>)
 
 ---
 
