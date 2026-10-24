@@ -20,13 +20,13 @@ Create an architecture diagram and implementation plan identifying the presentat
 
 #### Screenshot 1 — Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow
 
-Add your screenshot here.
+![Screenshot 1](<Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow.png>)
 
 ---
 
 #### Screenshot 2 — Written architecture assumptions and selected Azure services
 
-Add your screenshot here.
+![Screenshot 2](<Written architecture assumptions and selected Azure services.png>)
 
 ---
 
@@ -40,19 +40,19 @@ Create a dedicated Resource Group and VNet with separate subnets for the web, ap
 
 #### Screenshot 3 — Resource Group overview showing the assignment resources
 
-Add your screenshot here.
+![Screenshot 3](<Resource Group overview showing the assignment resources.png>)
 
 ---
 
 #### Screenshot 4 — VNet overview showing the address space and all required subnets
 
-Add your screenshot here.
+![Screenshot 4](<VNet overview showing the address space and all required subnets.png>)
 
 ---
 
 #### Screenshot 5 — Route-table or Private DNS evidence where applicable
 
-Add your screenshot here.
+![Screenshot 5](<Route-table or Private DNS evidence where applicable.png>)
 
 ---
 
@@ -66,13 +66,13 @@ Apply least-privilege NSG rules so traffic flows Internet → public entry point
 
 #### Screenshot 6 — NSG rules proving least-privilege access between the tiers
 
-Add your screenshot here.
+![Screenshot 6](<NSG rules proving least-privilege access between the tiers.png>)
 
 ---
 
 #### Screenshot 7 — Key Vault or approved secret-management configuration (without displaying secret values)
 
-Add your screenshot here.
+![Screenshot 7](<Key Vault or approved secret-management configuration.png>)
 
 ---
 
@@ -86,13 +86,13 @@ Deploy the Book Review App presentation layer on the approved web-tier compute s
 
 #### Screenshot 8 — Web-tier compute overview showing subnet and availability configuration
 
-Add your screenshot here.
+![Screenshot 8](<Web-tier compute overview showing subnet and availability configuration.png>)
 
 ---
 
 #### Screenshot 9 — Terminal or service output proving the presentation layer is running
 
-Add your screenshot here.
+![Screenshot 9](<Terminal or service output proving the presentation layer is running.png>)
 
 ---
 
@@ -106,19 +106,19 @@ Deploy the Book Review App backend privately in the application subnet, configur
 
 #### Screenshot 10 — Application-tier compute overview showing private subnet placement
 
-Add your screenshot here.
+![Screenshot 10](<Application-tier compute overview showing private subnet placement.png>)
 
 ---
 
 #### Screenshot 11 — Backend process, service, or listening-port evidence
 
-Add your screenshot here.
+![Screenshot 11](<Backend process, service, or listening-port evidence.png>)
 
 ---
 
 #### Screenshot 12 — Internal health-check or API response (without exposing secrets)
 
-Add your screenshot here.
+![Screenshot 12](<Internal health-check or API response.png>)
 
 ---
 
@@ -132,19 +132,19 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 13 — Database overview showing private connectivity and public access disabled
 
-Add your screenshot here.
+![Screenshot 13](<Database overview showing private connectivity and public access disabled.png>)
 
 ---
 
 #### Screenshot 14 — Availability, backup, and retention configuration
 
-Add your screenshot here.
+![Screenshot 14](<Availability, backup, and retention configuration.png>)
 
 ---
 
 #### Screenshot 15 — Successful schema or connectivity verification (without exposing credentials)
 
-Add your screenshot here.
+![Screenshot 15](<Successful schema or connectivity verification.png>)
 
 ---
 
@@ -157,20 +157,20 @@ Configure the approved public entry service with health probes and backend pools
 ### Evidence
 
 #### Screenshot 16 — Public entry service showing listener, frontend endpoint, and healthy web targets
+![Screenshot 16](<Public entry service showing listener, frontend endpoint, and healthy web targets.png>)
 
-Add your screenshot here.
 
 ---
 
 #### Screenshot 17 — Internal application-tier load-balancing or routing configuration where applicable
 
-Add your screenshot here.
+![Screenshot 17](<Internal application-tier load-balancing or routing configuration where applicable.png>)
 
 ---
 
 #### Screenshot 18 — Azure Monitor, diagnostic settings, logs, metrics, or alert evidence
 
-Add your screenshot here.
+![Screenshot 18](<Azure Monitor, diagnostic settings, logs, metrics, or alert evidence.png>)
 
 ---
 
@@ -184,25 +184,25 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 19 — Browser showing the Book Review App through the public endpoint
 
-Add your screenshot here.
+![Screenshot 19](<Browser showing the Book Review App through the public endpoint.png>)
 
 ---
 
 #### Screenshot 20 — Proof of successful database-backed read and write operations
 
-Add your screenshot here.
+![Screenshot 20](<Proof of successful database-backed read and write operations.png>)
 
 ---
 
 #### Screenshot 21 — Evidence that private tiers are not publicly accessible
 
-Add your screenshot here.
+![Screenshot 21](<Evidence that private tiers are not publicly accessible.png>)
 
 ---
 
 #### Screenshot 22 — Availability-test and healthy-target evidence
 
-Add your screenshot here.
+![Screenshot 22](<Availability-test and healthy-target evidence.png>)
 
 ---
 
@@ -210,7 +210,7 @@ Add your screenshot here.
 
 Paste your public endpoint URL here:
 
-`Add your URL here`
+http://20.87.239.221
 
 ---
 
@@ -218,7 +218,19 @@ Paste your public endpoint URL here:
 
 Summarize what worked, issues encountered and how they were fixed, and the availability/security/secrets/monitoring/backup choices made.
 
-Write your answer here.
+### Notes
+
+The Azure Book Review application was successfully deployed in the South Africa North region using a three-tier architecture. The public website is accessible at http://20.87.239.221. The frontend uses Next.js and Nginx, the backend uses Node.js/Express, and Azure Database for MySQL provides persistent storage.
+
+Issues and fixes: Database connectivity was corrected, and the backend successfully connected to MySQL using SSL. The `/api/books` endpoint was tested with `curl` and returned book records. Nginx was configured to route frontend API requests to the backend.
+
+Availability: The Azure Load Balancer provides the public entry point and uses a health probe on port 80. The backend runs on private port 3001. The single-VM deployment limits full high availability.
+
+Security and secrets: The database uses private virtual network access and SSL connections. Credentials and sensitive configuration are stored outside the source code and excluded from screenshots.
+
+Monitoring: PM2 manages the backend process, while Azure monitoring and Load Balancer health probes provide application and infrastructure visibility.
+
+Backup and recovery: Azure Database for MySQL backup and retention settings support recovery. Backup configuration should be verified, and restoration tested to confirm recoverability.
 
 ---
 
@@ -231,15 +243,15 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Architecture diagram and assumptions documented (Screenshots 1–2)
-- [ ] Task 2: Network foundation created with isolated tiers (Screenshots 3–5)
-- [ ] Task 3: Least-privilege security and secret management configured (Screenshots 6–7)
-- [ ] Task 4: Presentation tier deployed (Screenshots 8–9)
-- [ ] Task 5: Application tier deployed privately (Screenshots 10–12)
-- [ ] Task 6: Managed database tier deployed privately (Screenshots 13–15)
-- [ ] Task 7: Public entry, internal routing, and monitoring configured (Screenshots 16–18)
-- [ ] Task 8: End-to-end validation and availability test completed (Screenshots 19–22, Public Endpoint, Notes)
-- [ ] No sensitive data exposed
+- [✅] Task 1: Architecture diagram and assumptions documented (Screenshots 1–2)
+- [✅] Task 2: Network foundation created with isolated tiers (Screenshots 3–5)
+- [✅] Task 3: Least-privilege security and secret management configured (Screenshots 6–7)
+- [✅] Task 4: Presentation tier deployed (Screenshots 8–9)
+- [✅] Task 5: Application tier deployed privately (Screenshots 10–12)
+- [✅] Task 6: Managed database tier deployed privately (Screenshots 13–15)
+- [✅] Task 7: Public entry, internal routing, and monitoring configured (Screenshots 16–18)
+- [✅] Task 8: End-to-end validation and availability test completed (Screenshots 19–22, Public Endpoint, Notes)
+- [✅] No sensitive data exposed
 
 ---
 

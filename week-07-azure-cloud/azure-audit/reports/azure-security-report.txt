@@ -1,0 +1,22 @@
+========================================
+Azure Security Posture Audit Report
+========================================
+Full Name: Chibundu Favour
+Timestamp: 2026-10-23T17:23:43Z
+Resource Group: rg-week07-audit
+VM: Azure-Audit-VM
+Storage Account: c3audit1792398842
+MySQL Server: c3mysql1792399000
+
+[PASS] No custom NSG rule allowing unrestricted inbound SSH/RDP was found
+[PASS] Storage Account blob public access is disabled
+[PASS] VM OS managed disk is encrypted at rest (EncryptionAtRestWithPlatformKey)
+[PASS] Azure Database for MySQL public network access is disabled
+
+Summary:
+PASS: 4
+WARN: 0
+FAIL: 0
+Overall Status: HEALTHY
+Script Exit Code: 0
+Report File: /c/Users/PC/week-07-azure-audit/reports/azure-security-report.txt
